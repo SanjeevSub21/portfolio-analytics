@@ -2,12 +2,13 @@
 
 A Python-based project that analyzes a 15-stock portfolio across 5 sectors,
 calculates risk and return metrics, applies Modern Portfolio Theory to find an
-optimal asset allocation, and backtests the result on unseen data.
+optimal asset allocation, backtests the result on unseen data, and visualizes
+findings in an interactive Power BI dashboard.
 
 ## Status
-🚧 In progress — Weeks 1–4 complete (data pipeline, risk/return metrics, portfolio
-optimization via Monte Carlo simulation, and a leakage-free backtest). Power BI
-is next.
+✅ Complete — data pipeline, risk/return analysis, Monte Carlo portfolio
+optimization, a leakage-free backtest, and Power BI dashboard all built and
+documented.
 
 ## What This Project Does
 - Pulls 5 years of historical price data (2021–2026) for 15 stocks across 5 sectors
@@ -20,11 +21,17 @@ is next.
 - Backtests the optimized portfolio on a genuinely unseen test period: weights
   are trained only on 2021–2023 data and evaluated on 2024–2025 returns, avoiding
   the data leakage that would come from optimizing and testing on overlapping data
+- Visualizes sector allocation, risk-return trade-offs, and backtest performance
+  in an interactive Power BI dashboard
+
+## Dashboard
+<img width="900" height="481" alt="image" src="https://github.com/user-attachments/assets/d63ee653-0382-4173-8d18-75e1a83de4bd" />
+<img width="907" height="482" alt="image" src="https://github.com/user-attachments/assets/bfad677a-610b-435f-bc0c-ede0d1ce3ae8" />
 
 ## Tools Used
 - Python (pandas, numpy, yfinance, matplotlib, seaborn)
 - SQLite (data storage and querying)
-- Power BI *(planned)*
+- Power BI
 
 
 ## Key Findings
