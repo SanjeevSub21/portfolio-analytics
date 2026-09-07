@@ -5,11 +5,6 @@ calculates risk and return metrics, applies Modern Portfolio Theory to find an
 optimal asset allocation, backtests the result on unseen data, and visualizes
 findings in an interactive Power BI dashboard.
 
-## Status
-✅ Complete — data pipeline, risk/return analysis, Monte Carlo portfolio
-optimization, a leakage-free backtest, and Power BI dashboard all built and
-documented.
-
 ## What This Project Does
 - Pulls 5 years of historical price data (2021–2026) for 15 stocks across 5 sectors
   (Banking, IT, FMCG, Auto, Pharma) plus the Nifty 50 benchmark
