@@ -1,4 +1,4 @@
-# Portfolio Analytics & Risk-Return Optimization System
+# Portfolio Analytics & Risk-Return System
 
 A Python-based project that analyzes a 15-stock portfolio across 5 sectors,
 calculates risk and return metrics, applies Modern Portfolio Theory to find an
