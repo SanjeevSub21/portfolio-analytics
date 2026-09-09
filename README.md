@@ -20,7 +20,7 @@ findings in an interactive Power BI dashboard.
   in an interactive Power BI dashboard
 
 ## Dashboard
-<img width="900" height="481" alt="image" src="https://github.com/user-attachments/assets/d63ee653-0382-4173-8d18-75e1a83de4bd" />
+<img width="863" height="484" alt="image" src="https://github.com/user-attachments/assets/a0580acf-6d1d-4302-9230-1e0d224e2c32" />
 <img width="907" height="482" alt="image" src="https://github.com/user-attachments/assets/bfad677a-610b-435f-bc0c-ede0d1ce3ae8" />
 
 ## Tools Used
