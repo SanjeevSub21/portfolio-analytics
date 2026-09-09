@@ -20,8 +20,9 @@ findings in an interactive Power BI dashboard.
   in an interactive Power BI dashboard
 
 ## Dashboard
-<img width="863" height="484" alt="image" src="https://github.com/user-attachments/assets/a0580acf-6d1d-4302-9230-1e0d224e2c32" />
-<img width="907" height="482" alt="image" src="https://github.com/user-attachments/assets/bfad677a-610b-435f-bc0c-ede0d1ce3ae8" />
+<img width="866" height="486" alt="image" src="https://github.com/user-attachments/assets/5290a4d5-5bbb-455f-9248-3dca778aabdf" />
+<img width="871" height="459" alt="image" src="https://github.com/user-attachments/assets/e09b961b-b34a-4ad7-b65d-6da08f971381" />
+
 
 ## Tools Used
 - Python (pandas, numpy, yfinance, matplotlib, seaborn)
